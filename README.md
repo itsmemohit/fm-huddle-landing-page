@@ -22,7 +22,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 ### Links
 
 - Solution URL: [Github repo](https://github.com/itsmemohit/fm-huddle-landing-page)
-- Live Site URL: [Netlify live site url](https://cerulean-froyo-8b62fb.netlify.app/)
+- Live Site URL: [Netlify live site url](https://comforting-llama-304449.netlify.app/)
 
 ## My process
 
